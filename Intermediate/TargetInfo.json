@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FIT3094_A2_Code",
+			"Path": "F:\\Documents\\FIT3094\\FIT3094_A2_Code_LimZongYi_28696328\\Source\\FIT3094_A2_Code.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FIT3094_A2_CodeEditor",
+			"Path": "F:\\Documents\\FIT3094\\FIT3094_A2_Code_LimZongYi_28696328\\Source\\FIT3094_A2_CodeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
